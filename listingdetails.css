@@ -1,0 +1,66 @@
+
+
+/* Red border */
+hr.new1 {
+    border-top: 3px solid gray;
+}
+
+/* Dashed red border */
+hr.new2 {
+    border-top: 1px dashed red;
+}
+
+/* Dotted red border */
+hr.new3 {
+    border-top: 1px dotted red;
+}
+
+/* Thick red border */
+hr.new4 {
+    border: 1px solid red;
+}
+
+/* Large rounded green border */
+hr.new5 {
+    border: 10px solid green;
+    border-radius: 5px;
+}
+
+body {
+    color: black;
+}
+
+.p1 {
+    font-family: "Times New Roman", Times, serif;
+}
+
+.p2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.p3 {
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.p4 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 300;
+}
+
+.img-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.image:hover {
+    opacity: 0.7;
+}
+
+.col-sm-60p {
+    width: 60%;
+}
+
+.col-sm-40p {
+    width: 40%;
+}
