@@ -8,7 +8,7 @@ I am uploading my code to be able to show some of the work I've done.
 The primary component I've worked on is the ListingDetails.jsx page. 
 This page is the primary listing page you would go to if you were looking at information for a house/listing much like you would on Airbnb or Redfin, etc. 
 
-I've included a screen recording at the below link to show some of the current functionality (as of 17 Feb 2023).
+I've included a screen recording at the below link to show some of the current functionality (as of 20 Feb 2023).
     
 https://www.loom.com/share/15d838f289764ca993ef01c0426d9796
 
