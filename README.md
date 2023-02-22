@@ -56,9 +56,12 @@ https://www.loom.com/share/15d838f289764ca993ef01c0426d9796
 
 ---
 
-Front End Screenshots:
-
+Listing Details Main Page:
 ![Listing Details Main](Images/Listing-Details-Main.png)
+
+Amenities Modal with Icons:
 ![Amenities Modal with Icons](Images/Amenities-Modal-with-Icons.png)
+
+Images Modal with Carousel:
 ![Images Modal with Carousel](Images/Images-Modal-with-Carousel.png)
 
