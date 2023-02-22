@@ -13,7 +13,7 @@ The primary component I've worked on is the ListingDetails.jsx page. This page i
 Here are some of the functionality highlights:
 
 - Image Modal with Carousel
-- Public Url coded to be able to easily accessed
+- Public Url coded for quick/easy access
 - Mapping and Switch functions for Images, Services, and Amenities w/ State management
 - Icons for Amenities and Services
 - Google Maps API
