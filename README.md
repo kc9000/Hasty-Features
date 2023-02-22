@@ -52,4 +52,4 @@ I've included a screen recording at the below link to show some of the current f
 
 https://www.loom.com/share/15d838f289764ca993ef01c0426d9796
 
-![Listing Details Main](/Images/Listing Details Main.png)
+![Listing Details Main](../Images/Listing Details Main.png)
