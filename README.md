@@ -48,8 +48,17 @@ Here are some of the functionality highlights:
 
   Things like Amenities and Services are very variable - one house may have only 5 while another has 40. Originally I built a 'Show More' button to collapse extra Amenities and Services so that they don't all need to display immediately on the page. Later on, I built another modal that includes the amenity or service icon to replace the 'Show More' button. I think it looks a lot cleaner and doesn't mess with the rest of the page like if I was expanding or collapsing using the button.
 
+---
+
 I've included a screen recording at the below link to show some of the current functionality (as of 20 Feb 2023).
 
 https://www.loom.com/share/15d838f289764ca993ef01c0426d9796
 
+---
+
+Front End Screenshots:
+
 ![Listing Details Main](Images/Listing-Details-Main.png)
+![Amenities Modal with Icons](Images/Amenities-Modal-with-Icons.png)
+![Images Modal with Carousel](Images/Images-Modal-with-Carousel.png)
+
