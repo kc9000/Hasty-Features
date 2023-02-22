@@ -51,3 +51,5 @@ Here are some of the functionality highlights:
 I've included a screen recording at the below link to show some of the current functionality (as of 20 Feb 2023).
 
 https://www.loom.com/share/15d838f289764ca993ef01c0426d9796
+
+![Listing Details Main](Images/Listing Details Main.png)
