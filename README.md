@@ -57,6 +57,7 @@ https://www.loom.com/share/15d838f289764ca993ef01c0426d9796
 ---
 
 Listing Details Main Page:
+
 ![Listing Details Main](Images/Listing-Details-Main.png)
 
 Amenities Modal with Icons:
