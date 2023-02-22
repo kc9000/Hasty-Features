@@ -6,7 +6,7 @@ For Hasty, we are building a military-friendly platform that helps servicemember
 
 ---
 
-### Feature #1 - Listing Details Front End
+### Listing Details Front End
 
 The primary component I've worked on is the ListingDetails.jsx page. This page is the primary listing page you would go to if you were looking at information for a house/listing much like you would on Airbnb or Redfin, etc.
 
