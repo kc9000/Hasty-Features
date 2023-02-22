@@ -27,11 +27,11 @@ Here are some of the functionality highlights:
 
   In the modal, I wanted an easy way for users to scroll through images, so I built an image carousel with arrows on the sides and a bottom index component. Left and Right keyboard arrows can also be used to navigate.
 
-- Public Url coded to be able to easily access
+- Public Url coded for quick/easy access
 
   I wanted a user to be able to go directly to the listing page, so the Url is coded using the ListingId that I am grabbing using 'useParams' from React Router. This way users can easily share the Url with others to look at a listing. Eventually, there will be two paths to get to the listing page - one from clicking on a Listing 'card' from a multitude of listings/cards, and the other directly from the Url.
 
-- Mapping and Switch functions for Images, Service, Amenities w/ State management
+- Mapping and Switch functions for Images, Services, and Amenities w/ State management
 
   My database returns a lot of properties for a listing to include JSON objects for amenities, services, and images. I am using mapping functions to map these objects to their own arrays in my State.
   I am mapping Images into a format useable for my image Carousel to include some changes to its HTML.
