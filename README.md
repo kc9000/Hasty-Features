@@ -1,7 +1,7 @@
 # Hasty-Listing-Details
 This is some of my code for the private repo Hasty, a platform/project I am working on through my coding bootcamp. 
 
-For Hasty, we are building a military-friendly platform that helps servicemembers and their families more seamlessly make the move, which can be very stressful since you have to uproot so often. Hasty's listings will eventually better match servicemembers with housing depending on their rank, duty station, and family.
+For Hasty, we are building a military-friendly platform that helps servicemembers and their families more seamlessly make the move, which can be very stressful since you have to uproot so often. Hasty's listings will help match servicemembers with housing depending on their rank, duty station, and family situation.
 
 I am uploading my code to be able to show some of the work I've done. 
 
