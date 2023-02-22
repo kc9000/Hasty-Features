@@ -13,8 +13,8 @@ The primary component I've worked on is the ListingDetails.jsx page. This page i
 Here are some of the functionality highlights:
 
 - Image Modal with Carousel
-- Public Url coded to be able to easily access
-- Mapping and Switch functions for Images, Service, Amenities w/ State management
+- Public Url coded to be able to easily accessed
+- Mapping and Switch functions for Images, Services, and Amenities w/ State management
 - Icons for Amenities and Services
 - Google Maps API
 - Amenities/Services Modal
