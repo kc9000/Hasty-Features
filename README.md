@@ -31,8 +31,5 @@ Some of the functionality and problems I encountered and how I solved them so fa
 
 -Things like Amenities and Services are very variable - one house may have only 5 while another has 40. Originally I built a 'Show More' button to collapse extra Amenities and Services so that they don't all need to display immediately on the page. Later on, I built another modal that includes the amenity or service icon to replace the 'Show More' button. I think it looks a lot cleaner and doesn't mess with the rest of the page like if I was expanding or collapsing using the button.
 
-<img width="226" alt="Listing Details Page" src="https://user-images.githubusercontent.com/117325696/220733526-57cb1490-d1f8-40aa-b492-74098584ecd9.png">
-<img width="225" alt="Amenities/Services Modal w/Icons" src="https://user-images.githubusercontent.com/117325696/220733533-15399136-9aaa-43d6-bf0f-459388f5aed0.png">
-<img width="225" alt="Image Modal/Carousel" src="https://user-images.githubusercontent.com/117325696/220733540-b89e033b-30eb-442b-8992-ced9a34680af.png">
 <img width="331" alt="Screenshot_20230222_111128" src="https://user-images.githubusercontent.com/117325696/220734316-d5fc55c2-0fd0-438e-a5f4-78b6849c0a21.png">
 
