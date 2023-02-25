@@ -379,7 +379,7 @@ function ListingDetails() {
 
                         <hr className="listing-details-line mb-4 mt-3"></hr>
                         <div className="col mb-4">
-                            <LoadScript googleMapsApiKey="AIzaSyDRdcn6_5L37-p7Jnf51k3sVZC_fZkILEc">
+                            <LoadScript googleMapsApiKey="">
                                 <GoogleMap
                                     id="circle-example"
                                     mapContainerStyle={containerStyle}
