@@ -1,4 +1,6 @@
-
+.listing-image{
+    cursor:pointer
+}
 
 .listing-details-line {
     border-top: 3px solid gray;
