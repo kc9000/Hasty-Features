@@ -1,6 +1,6 @@
 # Hasty Features
 
-This repo is a collection of my work from the startup Hasty, a platform/project I am working on through my coding bootcamp.
+This repo is a collection of some of my work for the startup Hasty, a platform/project I am working on through my coding bootcamp.
 
 For Hasty, we are building a military-friendly platform that helps servicemembers and their families more seamlessly make their duty station move, which can be very stressful since you have to uproot so often. Hasty's listings will help match servicemembers with housing depending on their rank, duty station, and family situation.
 
@@ -58,11 +58,12 @@ https://www.loom.com/share/15d838f289764ca993ef01c0426d9796
 
 Listing Details Main Page:
 
-![Listing Details Main](Images/Listing-Details-Main.png)
+![Listing Details Main](Images/Listing-Details-Main1.png)
+![Listing Details Main](Images/Listing-Details-Main2.png)
 
 Amenities Modal with Icons:
-![Amenities Modal with Icons](Images/Amenities-Modal-with-Icons.png)
+![Amenities Modal with Icons](Images/Amenities-Services-Modal-with-Icons.png)
 
 Images Modal with Carousel:
-![Images Modal with Carousel](Images/Images-Modal-with-Carousel.png)
+![Images Modal with Carousel](Images/Images-Modal-Carousel-Index.png)
 
